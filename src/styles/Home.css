@@ -1,0 +1,97 @@
+.Home {
+  margin-top: 60px;
+}
+
+/* Hero */
+
+.Home .Hero {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-family: "Varela Round";
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.Hero .Different {
+  color: #c8f21c;
+}
+
+/* About-Us */
+
+.About-Us {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  color: #fff;
+}
+
+.About-Us .About-Title,
+.WWD-Title,
+.Clients-Title {
+  font-family: "Nanum Gothic";
+  text-transform: uppercase;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: #7f7f7f;
+  letter-spacing: 3px;
+}
+
+.About-Us .About-Text,
+.Clients-Text {
+  font-family: "Varela Round";
+  color: #525252;
+  font-weight: 800;
+  font-size: 80px;
+  letter-spacing: 2px;
+}
+
+.About-Us span,
+.Clients-Work span {
+  color: #c8f21c;
+}
+
+/* What-We-Do */
+
+.WWD-Container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  color: #fff;
+}
+
+.WWD-Container2 p {
+  font-family: "Varela Round";
+  color: #525252;
+  font-weight: 800;
+  font-size: 65px;
+  letter-spacing: 2px;
+  border-top: 1px solid #7f7f7f;
+  text-transform: uppercase;
+  padding: 5px 0;
+  padding-left: 10%;
+  transition: all 0.3s;
+}
+
+.WWD-Container2 span {
+  font-size: 75px;
+}
+
+.WWD-Container2 p:hover {
+  background-color: #c8f21c;
+  color: #000;
+  cursor: default;
+}
+
+.WWD-Container2 .Last {
+  border-bottom: 1px solid #7f7f7f;
+}
+
+/* Clients Work */
+.Clients-Work {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  color: #fff;
+}
